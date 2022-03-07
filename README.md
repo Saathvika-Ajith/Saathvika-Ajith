@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saathvika-Ajith
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Compsci
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Don't
 
