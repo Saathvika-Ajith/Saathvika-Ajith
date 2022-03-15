@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl_python3_beta_Saathvika-Ajith"
+version = "0.1.0"
+description = ""
+authors = ["SaathvikaAjith1 <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+funcy = "^1.17"
+patterns = "^0.3"
+loopy = "^2020.2.1"
+mathpy = "^0.3.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
