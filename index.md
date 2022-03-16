@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
 
+
+<table>
+     <tr>
+         <td><a href=".">Home</a></td>
+         <td><a href="">Replit Code</a></td>
+         <td><a href="">Class Notes</a></td>
+       <td><a href="">Create Task</a></td>
+     </tr>
+ </table>
+ 
+ 
 You can use the [editor on GitHub](https://github.com/Saathvika-Ajith/Saathvika-Ajith/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
