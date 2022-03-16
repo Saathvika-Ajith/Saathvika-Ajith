@@ -1,3 +1,5 @@
+{% includes navigation.html %}
+
 ## Tri 3 TPT 0.1 related to Beneficial and Harmful Effects of Computing Big Idea 5.1 -
 - UAVs and Drones are used in search & rescue, aerial photography, and for hobbies. They can be both beneficial and detrimental, based on on the users and use of the tech. Since their invention, many unintended uses were discovered.
 - Video games and Social media are shown to impact people chemically. However, statistically some people's computer time may be greater than their sleep time. There are both pros and cons to these forms of entertainment.
