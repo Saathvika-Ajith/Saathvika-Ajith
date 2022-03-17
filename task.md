@@ -1,4 +1,4 @@
-{% includes navigation.html %}
+{% include navigation.html %}
 
 [Create Task Runtime](http://studyowl.tk:8080/quiz/)
 
