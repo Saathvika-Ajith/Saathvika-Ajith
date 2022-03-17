@@ -1,4 +1,4 @@
-{% includes navigation.html %}
+{% include navigation.html %}
 
 ## Tri 3 TPT 0.1 related to Beneficial and Harmful Effects of Computing Big Idea 5.1 -
 - UAVs and Drones are used in search & rescue, aerial photography, and for hobbies. They can be both beneficial and detrimental, based on on the users and use of the tech. Since their invention, many unintended uses were discovered.
