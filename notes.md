@@ -32,7 +32,7 @@
 - #3. How do you think this happened?
   - The programmers that worked and tested this software were probably all white (males) and didn't acount for any POC in their creation and processes.
 - #4. Is this harmful? Was it intended to be harmful or exclude?
-  - yes, this is certainly harmful, but it doesn't seem like something that was put in there to personally attack or exclude POC.
+  - Yes, this is certainly harmful, but it doesn't seem like something that was put in there to personally attack or exclude POC.
 - #5. Should it be corrected?
   - It should be corrected as soon as possible.
 - #6. What would you or should you do to produce a better outcome?
