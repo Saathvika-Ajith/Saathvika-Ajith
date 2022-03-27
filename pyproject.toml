@@ -6,10 +6,6 @@ authors = ["SaathvikaAjith1 <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-funcy = "^1.17"
-patterns = "^0.3"
-loopy = "^2020.2.1"
-mathpy = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
 
