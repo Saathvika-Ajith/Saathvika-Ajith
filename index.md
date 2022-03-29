@@ -1,4 +1,4 @@
-{% include head-custom2.html %} 
+{% include default.html %} 
 
 <div id="video_wrapper">
   <video autoplay loop>
