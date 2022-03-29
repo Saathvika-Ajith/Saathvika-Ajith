@@ -1,3 +1,20 @@
+<style>
+#video_wrapper {
+    margin:0px;
+    padding:0px;
+}
+#video_wrapper video {
+    position: fixed;
+    top: 50%; left: 50%;
+    z-index: -99; important!
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
+</style>
+
 <div id="video_wrapper">
   <video autoplay loop>
     <source src="https://data.whicdn.com/images/315988690/original.gif" type="video/mp4">
