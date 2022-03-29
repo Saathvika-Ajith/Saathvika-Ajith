@@ -1,3 +1,5 @@
+{% include head-custom2.html %} 
+
 <div id="video_wrapper">
   <video autoplay loop>
     <source src="https://data.whicdn.com/images/315988690/original.gif" type="video/mp4">
