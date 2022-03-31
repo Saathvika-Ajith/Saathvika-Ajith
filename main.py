@@ -8,6 +8,7 @@ from week2.classFactorial import factorialll
 from week2.factors import factorsTester
 from week2.primes import primesTester
 
+
 main_menu = []
 
 math_sub_menu = [
@@ -25,6 +26,10 @@ display_sub_menu = [
     ["For Loop", for_loop],
     ["While Loop", while_loop],
     ["Recursive Loop", recursive_loop],
+]
+
+week3_sub_menu = [
+    ["Icecream", "/Users/nadirahaddach/Saathvika-Ajith/week3/icecream.py"],
 ]
 
 week2_sub_menu = [
@@ -63,6 +68,7 @@ def menu():
     menu_list.append(["Math", math_submenu])
     menu_list.append(["Display", display_submenu])
     menu_list.append(["════ ══ ⊰ Weeks:"])
+    menu_list.append(["Week 3", week3_submenu])
     menu_list.append(["Week 2", week2_submenu])
     menu_list.append(["Week 1", week1_submenu])
     menu_list.append(["Week 0", week0_submenu])
@@ -79,6 +85,10 @@ def math_submenu():
 def display_submenu():
     title = "Display Submenu" + banner
     buildMenu(title, display_sub_menu)
+
+def week3_submenu():
+    title = "Week 3 Submenu" + banner
+    buildMenu(title, week3_sub_menu)
 
 def week2_submenu():
     title = "Week 2 Submenu" + banner
