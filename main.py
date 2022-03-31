@@ -48,8 +48,8 @@ week0_sub_menu = [
 ]
 
 # Menu banner is typically defined by menu owner
-border = "⊹ ⊱ ❖ ⊰ ⊹ ════════════════════"
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+border = "\033[36m⊹ ⊱ ❖ ⊰ ⊹ ════════════════════\033[36m"
+banner = f"\033[37m\n{border}\nPlease Select An Option\n{border}\033[37m"
 
 # def menu
 # using main_menu list:
