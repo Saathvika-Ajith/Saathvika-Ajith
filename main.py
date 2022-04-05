@@ -56,7 +56,7 @@ week0_sub_menu = [
 border = "\033[36m⊹ ⊱ ❖ ⊰ ⊹ ════════════════════\033[36m"
 banner = f"\033[37m\n{border}\nPlease Select An Option\n{border}\033[37m"
 
-# def menu
+# def menu/
 # using main_menu list:
 # 1. main menu and submenu reference are created [Prompts, Actions]
 # 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
