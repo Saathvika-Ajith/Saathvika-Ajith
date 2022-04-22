@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Week 5 Study Plan:
 - Day | Plan 
 - Monday | Review Ticket and PBL
