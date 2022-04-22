@@ -22,3 +22,5 @@
 - Q42 | Answer B and C. Cloud computing fosters new ways to communicate and collaborate, allowing users to share files and tools easily. Cloud computing sites must consider security concerns in order to protect their users’ private data.
 
 ## Create Task Video:
+
+
