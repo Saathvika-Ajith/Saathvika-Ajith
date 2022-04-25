@@ -15,7 +15,7 @@
 - Q37 | Answer D. x = 3, y = 2, z = 1.
 - Q45 | Answer C. The cost of a given product is not tracked by the described search engine.
 
-## Finals 2 Test Correcttions: 45/50
+## Finals 2 Test Corrections: 45/50
 - Question | Correction
 - Q14 | Answer A. The two line graphs are roughly the same shape. Each value on the right line graph is about 10 times the corresponding value on the left line graph. Therefore, the average amount of data stored per user is about 10 GB.
 - Q22 | Answer B. IPv6 allows for a greater number of IP addresses than IPv4 does, which allows more devices to be connected.
