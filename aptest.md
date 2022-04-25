@@ -23,6 +23,8 @@
 - Q39 | Answer B and C. Different users may abbreviate city names differently. This may require the student to clean the data to make it uniform before it can be processed. Misspelled city names will not be an exact match to information stored by the Web site. This may require the student to clean the data to make it uniform before it can be processed.
 - Q42 | Answer B and C. Cloud computing fosters new ways to communicate and collaborate, allowing users to share files and tools easily. Cloud computing sites must consider security concerns in order to protect their users’ private data.
 
-## Create Task Video:
+## Create Task:
+- [Video](https://www.loom.com/share/b11053949de7479180e587f36b48fe52)
+- [Description](https://docs.google.com/document/d/1uyDIzzQcXqRIQMYFrSamSSLzTqiBVcLq-BhYv5mXdVY/edit?usp=sharing)
 
 
