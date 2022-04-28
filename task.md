@@ -41,7 +41,7 @@ Algorithm implementation
 
 
 
-## Written Response Questions - BLACKPINK Quiz
+## Written Response Questions
 - Questions | Answers 
 
 - 3ai - Describes the overall purpose of the program  | Our interactive quizzes are fun personality quizzes to pass the time, entertain, and help people learn more about themselves. There are two quizzes, the first being "Which Blackpink Member Are You?" and the second, "Which Greek Goddess Are You?". Each quiz has an algorithm which tallies the point values from each option that you pick, and presents your score as which person's personality, your personality is the most like, according to the insights derived from your responses.
